@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\GameStart\GameStart\bin\Debug\GameStart.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\GameStart\GameStart\bin\Debug\GameStart.exe
+C:\Users\user\documents\visual studio 2013\Projects\GameStart\GameStart\bin\Debug\GameStart.pdb
+C:\Users\user\documents\visual studio 2013\Projects\GameStart\GameStart\obj\Debug\GameStart.exe
+C:\Users\user\documents\visual studio 2013\Projects\GameStart\GameStart\obj\Debug\GameStart.pdb
+C:\Users\user\documents\visual studio 2013\Projects\GameStart\GameStart\obj\Debug\GameStart.csprojResolveAssemblyReference.cache
+D:\Programing\C#\GameStart\GameStart\bin\Debug\GameStart.exe.config
+D:\Programing\C#\GameStart\GameStart\obj\Debug\GameStart.exe
+D:\Programing\C#\GameStart\GameStart\obj\Debug\GameStart.pdb
+D:\Programing\C#\GameStart\GameStart\bin\Debug\GameStart.exe
+D:\Programing\C#\GameStart\GameStart\bin\Debug\GameStart.pdb
+D:\Programing\C#\GameStart\GameStart\obj\Debug\GameStart.csprojResolveAssemblyReference.cache
